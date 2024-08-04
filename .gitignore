@@ -1,0 +1,6 @@
+*.out
+*.csv
+*.dat
+DecisionTree
+*.mod
+*.o
